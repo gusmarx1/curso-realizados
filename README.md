@@ -9,7 +9,7 @@ Olá! Neste repositório você encontrará projetos realizados durante diferente
 ------------
 ## Realizados/Em andamento:
 
-|    Nome do Curso    | Linguagem    | Instituição     | Status      | Resumo      |  Finalziado em: |
+|    Nome do Curso    | Linguagem    | Instituição     | Status      | Resumo      |  Finalizado em: |
 | ------------        | ------------ | ------------    | ----------- | ----------- | --------------  |
 | **Machine Learning: Modelos de Classificação**  | Python | ALURA | Finalizado | Durante este curso, aprendi a aplicar modelos de classificação usando scikit-learn, trabalhando com dados ficticios para prever comportamentos e resultados. O conteúdo programatico abordou preparação de dados para treino/teste, uso de algoritmos como LinearSVC, SVC para modelos não lineares e Decision Tree (também houve uma introdução a graphviz), além da avaliação de desempenho com métricas como acurácia e visualizações com gráficos. | Jun/2025 |
 | **Machine Learning: Modelos de Regressão**  | Python | ALURA | Em andamento | ... | ... |
