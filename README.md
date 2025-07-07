@@ -1,4 +1,4 @@
-![](https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2021/02/O-Que-Aprender-Para-Trabalhar-com-Data-Science-em-2021.jpg?w=1000&ssl=1)
+![](https://kondado.com.br/blog/wp-content/uploads/2023/02/xBLOG-Data-Science.png.pagespeed.ic.NI8kDY53AS.webp)
 
 # Cursos realizados em Ciência de Dados
 
